@@ -1,0 +1,15 @@
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.csproj.AssemblyReference.cache
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.AssemblyInfoInputs.cache
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.AssemblyInfo.cs
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.csproj.CoreCompileInputs.cache
+C:\C#\task07_остаток_числа\bin\Debug\net6.0\task07_остаток_числа.exe
+C:\C#\task07_остаток_числа\bin\Debug\net6.0\task07_остаток_числа.deps.json
+C:\C#\task07_остаток_числа\bin\Debug\net6.0\task07_остаток_числа.runtimeconfig.json
+C:\C#\task07_остаток_числа\bin\Debug\net6.0\task07_остаток_числа.dll
+C:\C#\task07_остаток_числа\bin\Debug\net6.0\task07_остаток_числа.pdb
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.dll
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\refint\task07_остаток_числа.dll
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.pdb
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\task07_остаток_числа.genruntimeconfig.cache
+C:\C#\task07_остаток_числа\obj\Debug\net6.0\ref\task07_остаток_числа.dll

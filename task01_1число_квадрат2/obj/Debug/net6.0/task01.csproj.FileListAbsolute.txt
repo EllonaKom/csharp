@@ -1,0 +1,15 @@
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.csproj.AssemblyReference.cache
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.AssemblyInfoInputs.cache
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.AssemblyInfo.cs
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.csproj.CoreCompileInputs.cache
+C:\C#\task01_1число_квадрат2\bin\Debug\net6.0\task01.exe
+C:\C#\task01_1число_квадрат2\bin\Debug\net6.0\task01.deps.json
+C:\C#\task01_1число_квадрат2\bin\Debug\net6.0\task01.runtimeconfig.json
+C:\C#\task01_1число_квадрат2\bin\Debug\net6.0\task01.dll
+C:\C#\task01_1число_квадрат2\bin\Debug\net6.0\task01.pdb
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.dll
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\refint\task01.dll
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.pdb
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\task01.genruntimeconfig.cache
+C:\C#\task01_1число_квадрат2\obj\Debug\net6.0\ref\task01.dll

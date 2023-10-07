@@ -1,0 +1,15 @@
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.csproj.AssemblyReference.cache
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.AssemblyInfoInputs.cache
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.AssemblyInfo.cs
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.csproj.CoreCompileInputs.cache
+C:\C#\task05_вывод_от_минус_до\bin\Debug\net6.0\task03.exe
+C:\C#\task05_вывод_от_минус_до\bin\Debug\net6.0\task03.deps.json
+C:\C#\task05_вывод_от_минус_до\bin\Debug\net6.0\task03.runtimeconfig.json
+C:\C#\task05_вывод_от_минус_до\bin\Debug\net6.0\task03.dll
+C:\C#\task05_вывод_от_минус_до\bin\Debug\net6.0\task03.pdb
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.dll
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\refint\task03.dll
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.pdb
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\task03.genruntimeconfig.cache
+C:\C#\task05_вывод_от_минус_до\obj\Debug\net6.0\ref\task03.dll

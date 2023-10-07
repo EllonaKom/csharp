@@ -1,0 +1,15 @@
+C:\C#\task00_квадрат_числа\bin\Debug\net6.0\task00.exe
+C:\C#\task00_квадрат_числа\bin\Debug\net6.0\task00.deps.json
+C:\C#\task00_квадрат_числа\bin\Debug\net6.0\task00.runtimeconfig.json
+C:\C#\task00_квадрат_числа\bin\Debug\net6.0\task00.dll
+C:\C#\task00_квадрат_числа\bin\Debug\net6.0\task00.pdb
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.csproj.AssemblyReference.cache
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.AssemblyInfoInputs.cache
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.AssemblyInfo.cs
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.csproj.CoreCompileInputs.cache
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.dll
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\refint\task00.dll
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.pdb
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\task00.genruntimeconfig.cache
+C:\C#\task00_квадрат_числа\obj\Debug\net6.0\ref\task00.dll
