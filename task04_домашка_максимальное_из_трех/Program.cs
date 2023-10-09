@@ -21,3 +21,4 @@ if (userNumber3 > max)
 }
 
 System.Console.WriteLine($"Максимальное число  {max} ");
+return max;
