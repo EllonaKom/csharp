@@ -9,7 +9,7 @@ int userNumber1 = Convert.ToInt32(Console.ReadLine());
 
 
 
-if (userNumber1 % 7 == 0 & userNumber1 % 23 == 0 )
+if (userNumber1 % 7 == 0 && userNumber1 % 23 == 0 )
 {
     System.Console.WriteLine("Кратно ");
 }
