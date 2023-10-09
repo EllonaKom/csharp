@@ -1,0 +1,15 @@
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.csproj.AssemblyReference.cache
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.AssemblyInfoInputs.cache
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.AssemblyInfo.cs
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.csproj.CoreCompileInputs.cache
+C:\C#\task06_домашка_четное_ли_число\bin\Debug\net6.0\task06_домашка_четное_ли_число.exe
+C:\C#\task06_домашка_четное_ли_число\bin\Debug\net6.0\task06_домашка_четное_ли_число.deps.json
+C:\C#\task06_домашка_четное_ли_число\bin\Debug\net6.0\task06_домашка_четное_ли_число.runtimeconfig.json
+C:\C#\task06_домашка_четное_ли_число\bin\Debug\net6.0\task06_домашка_четное_ли_число.dll
+C:\C#\task06_домашка_четное_ли_число\bin\Debug\net6.0\task06_домашка_четное_ли_число.pdb
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.dll
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\refint\task06_домашка_четное_ли_число.dll
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.pdb
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\task06_домашка_четное_ли_число.genruntimeconfig.cache
+C:\C#\task06_домашка_четное_ли_число\obj\Debug\net6.0\ref\task06_домашка_четное_ли_число.dll

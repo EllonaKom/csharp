@@ -1,0 +1,15 @@
+C:\C#\task02_домашка_сравнение_чисел\bin\Debug\net6.0\task02_домашка_сравнение_чисел.exe
+C:\C#\task02_домашка_сравнение_чисел\bin\Debug\net6.0\task02_домашка_сравнение_чисел.deps.json
+C:\C#\task02_домашка_сравнение_чисел\bin\Debug\net6.0\task02_домашка_сравнение_чисел.runtimeconfig.json
+C:\C#\task02_домашка_сравнение_чисел\bin\Debug\net6.0\task02_домашка_сравнение_чисел.dll
+C:\C#\task02_домашка_сравнение_чисел\bin\Debug\net6.0\task02_домашка_сравнение_чисел.pdb
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.csproj.AssemblyReference.cache
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.AssemblyInfoInputs.cache
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.AssemblyInfo.cs
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.csproj.CoreCompileInputs.cache
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.dll
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\refint\task02_домашка_сравнение_чисел.dll
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.pdb
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\task02_домашка_сравнение_чисел.genruntimeconfig.cache
+C:\C#\task02_домашка_сравнение_чисел\obj\Debug\net6.0\ref\task02_домашка_сравнение_чисел.dll

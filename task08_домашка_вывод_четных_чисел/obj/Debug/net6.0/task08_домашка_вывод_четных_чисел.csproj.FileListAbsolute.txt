@@ -1,0 +1,15 @@
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.csproj.AssemblyReference.cache
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.AssemblyInfoInputs.cache
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.AssemblyInfo.cs
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.csproj.CoreCompileInputs.cache
+C:\C#\task08_домашка_вывод_четных_чисел\bin\Debug\net6.0\task08_домашка_вывод_четных_чисел.exe
+C:\C#\task08_домашка_вывод_четных_чисел\bin\Debug\net6.0\task08_домашка_вывод_четных_чисел.deps.json
+C:\C#\task08_домашка_вывод_четных_чисел\bin\Debug\net6.0\task08_домашка_вывод_четных_чисел.runtimeconfig.json
+C:\C#\task08_домашка_вывод_четных_чисел\bin\Debug\net6.0\task08_домашка_вывод_четных_чисел.dll
+C:\C#\task08_домашка_вывод_четных_чисел\bin\Debug\net6.0\task08_домашка_вывод_четных_чисел.pdb
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.dll
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\refint\task08_домашка_вывод_четных_чисел.dll
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.pdb
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\task08_домашка_вывод_четных_чисел.genruntimeconfig.cache
+C:\C#\task08_домашка_вывод_четных_чисел\obj\Debug\net6.0\ref\task08_домашка_вывод_четных_чисел.dll

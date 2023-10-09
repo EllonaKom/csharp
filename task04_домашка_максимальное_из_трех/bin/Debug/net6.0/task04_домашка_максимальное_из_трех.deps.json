@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task04_домашка_максимальное_из_трех/1.0.0": {
+        "runtime": {
+          "task04_домашка_максимальное_из_трех.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task04_домашка_максимальное_из_трех/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.csproj.AssemblyReference.cache
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.AssemblyInfoInputs.cache
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.AssemblyInfo.cs
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.csproj.CoreCompileInputs.cache
+C:\C#\task04_домашка_максимальное_из_трех\bin\Debug\net6.0\task04_домашка_максимальное_из_трех.exe
+C:\C#\task04_домашка_максимальное_из_трех\bin\Debug\net6.0\task04_домашка_максимальное_из_трех.deps.json
+C:\C#\task04_домашка_максимальное_из_трех\bin\Debug\net6.0\task04_домашка_максимальное_из_трех.runtimeconfig.json
+C:\C#\task04_домашка_максимальное_из_трех\bin\Debug\net6.0\task04_домашка_максимальное_из_трех.dll
+C:\C#\task04_домашка_максимальное_из_трех\bin\Debug\net6.0\task04_домашка_максимальное_из_трех.pdb
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.dll
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\refint\task04_домашка_максимальное_из_трех.dll
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.pdb
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\task04_домашка_максимальное_из_трех.genruntimeconfig.cache
+C:\C#\task04_домашка_максимальное_из_трех\obj\Debug\net6.0\ref\task04_домашка_максимальное_из_трех.dll
