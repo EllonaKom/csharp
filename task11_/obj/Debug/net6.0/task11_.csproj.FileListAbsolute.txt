@@ -1,0 +1,15 @@
+C:\C#\task11_\obj\Debug\net6.0\task11_.csproj.AssemblyReference.cache
+C:\C#\task11_\obj\Debug\net6.0\task11_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task11_\obj\Debug\net6.0\task11_.AssemblyInfoInputs.cache
+C:\C#\task11_\obj\Debug\net6.0\task11_.AssemblyInfo.cs
+C:\C#\task11_\obj\Debug\net6.0\task11_.csproj.CoreCompileInputs.cache
+C:\C#\task11_\bin\Debug\net6.0\task11_.exe
+C:\C#\task11_\bin\Debug\net6.0\task11_.deps.json
+C:\C#\task11_\bin\Debug\net6.0\task11_.runtimeconfig.json
+C:\C#\task11_\bin\Debug\net6.0\task11_.dll
+C:\C#\task11_\bin\Debug\net6.0\task11_.pdb
+C:\C#\task11_\obj\Debug\net6.0\task11_.dll
+C:\C#\task11_\obj\Debug\net6.0\refint\task11_.dll
+C:\C#\task11_\obj\Debug\net6.0\task11_.pdb
+C:\C#\task11_\obj\Debug\net6.0\task11_.genruntimeconfig.cache
+C:\C#\task11_\obj\Debug\net6.0\ref\task11_.dll
