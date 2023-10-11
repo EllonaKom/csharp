@@ -1,0 +1,15 @@
+C:\C#\task15_выходной_ли_день\bin\Debug\net6.0\task15_выходной_ли_день.exe
+C:\C#\task15_выходной_ли_день\bin\Debug\net6.0\task15_выходной_ли_день.deps.json
+C:\C#\task15_выходной_ли_день\bin\Debug\net6.0\task15_выходной_ли_день.runtimeconfig.json
+C:\C#\task15_выходной_ли_день\bin\Debug\net6.0\task15_выходной_ли_день.dll
+C:\C#\task15_выходной_ли_день\bin\Debug\net6.0\task15_выходной_ли_день.pdb
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.csproj.AssemblyReference.cache
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.AssemblyInfoInputs.cache
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.AssemblyInfo.cs
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.csproj.CoreCompileInputs.cache
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.dll
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\refint\task15_выходной_ли_день.dll
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.pdb
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\task15_выходной_ли_день.genruntimeconfig.cache
+C:\C#\task15_выходной_ли_день\obj\Debug\net6.0\ref\task15_выходной_ли_день.dll

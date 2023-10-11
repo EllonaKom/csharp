@@ -1,0 +1,15 @@
+C:\C#\task13_выводит_3цифру\bin\Debug\net6.0\task13_выводит_3цифру.exe
+C:\C#\task13_выводит_3цифру\bin\Debug\net6.0\task13_выводит_3цифру.deps.json
+C:\C#\task13_выводит_3цифру\bin\Debug\net6.0\task13_выводит_3цифру.runtimeconfig.json
+C:\C#\task13_выводит_3цифру\bin\Debug\net6.0\task13_выводит_3цифру.dll
+C:\C#\task13_выводит_3цифру\bin\Debug\net6.0\task13_выводит_3цифру.pdb
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.csproj.AssemblyReference.cache
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.AssemblyInfoInputs.cache
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.AssemblyInfo.cs
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.csproj.CoreCompileInputs.cache
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.dll
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\refint\task13_выводит_3цифру.dll
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.pdb
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\task13_выводит_3цифру.genruntimeconfig.cache
+C:\C#\task13_выводит_3цифру\obj\Debug\net6.0\ref\task13_выводит_3цифру.dll

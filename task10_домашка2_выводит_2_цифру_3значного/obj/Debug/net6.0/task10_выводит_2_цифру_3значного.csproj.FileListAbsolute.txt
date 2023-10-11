@@ -1,0 +1,15 @@
+C:\C#\task10_выводит_2_цифру_3значного\bin\Debug\net6.0\task10_выводит_2_цифру_3значного.exe
+C:\C#\task10_выводит_2_цифру_3значного\bin\Debug\net6.0\task10_выводит_2_цифру_3значного.deps.json
+C:\C#\task10_выводит_2_цифру_3значного\bin\Debug\net6.0\task10_выводит_2_цифру_3значного.runtimeconfig.json
+C:\C#\task10_выводит_2_цифру_3значного\bin\Debug\net6.0\task10_выводит_2_цифру_3значного.dll
+C:\C#\task10_выводит_2_цифру_3значного\bin\Debug\net6.0\task10_выводит_2_цифру_3значного.pdb
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.csproj.AssemblyReference.cache
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.AssemblyInfoInputs.cache
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.AssemblyInfo.cs
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.csproj.CoreCompileInputs.cache
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.dll
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\refint\task10_выводит_2_цифру_3значного.dll
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.pdb
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\task10_выводит_2_цифру_3значного.genruntimeconfig.cache
+C:\C#\task10_выводит_2_цифру_3значного\obj\Debug\net6.0\ref\task10_выводит_2_цифру_3значного.dll
