@@ -1,0 +1,15 @@
+C:\C#\task18_четверть\bin\Debug\net6.0\task18.exe
+C:\C#\task18_четверть\bin\Debug\net6.0\task18.deps.json
+C:\C#\task18_четверть\bin\Debug\net6.0\task18.runtimeconfig.json
+C:\C#\task18_четверть\bin\Debug\net6.0\task18.dll
+C:\C#\task18_четверть\bin\Debug\net6.0\task18.pdb
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.AssemblyInfo.cs
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.dll
+C:\C#\task18_четверть\obj\Debug\net6.0\refint\task18.dll
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.pdb
+C:\C#\task18_четверть\obj\Debug\net6.0\task18.genruntimeconfig.cache
+C:\C#\task18_четверть\obj\Debug\net6.0\ref\task18.dll

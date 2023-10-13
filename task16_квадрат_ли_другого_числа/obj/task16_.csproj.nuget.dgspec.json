@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\task16_\\task16_.csproj": {}
+    "C:\\C#\\task16_квадрат_ли_другого_числа\\task16_.csproj": {}
   },
   "projects": {
-    "C:\\C#\\task16_\\task16_.csproj": {
+    "C:\\C#\\task16_квадрат_ли_другого_числа\\task16_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\task16_\\task16_.csproj",
+        "projectUniqueName": "C:\\C#\\task16_квадрат_ли_другого_числа\\task16_.csproj",
         "projectName": "task16_",
-        "projectPath": "C:\\C#\\task16_\\task16_.csproj",
+        "projectPath": "C:\\C#\\task16_квадрат_ли_другого_числа\\task16_.csproj",
         "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\task16_\\obj\\",
+        "outputPath": "C:\\C#\\task16_квадрат_ли_другого_числа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"

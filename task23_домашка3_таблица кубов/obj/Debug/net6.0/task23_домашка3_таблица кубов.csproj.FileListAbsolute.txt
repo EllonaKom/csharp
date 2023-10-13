@@ -1,0 +1,15 @@
+C:\C#\task23_домашка3_таблица кубов\bin\Debug\net6.0\task23_домашка3_таблица кубов.exe
+C:\C#\task23_домашка3_таблица кубов\bin\Debug\net6.0\task23_домашка3_таблица кубов.deps.json
+C:\C#\task23_домашка3_таблица кубов\bin\Debug\net6.0\task23_домашка3_таблица кубов.runtimeconfig.json
+C:\C#\task23_домашка3_таблица кубов\bin\Debug\net6.0\task23_домашка3_таблица кубов.dll
+C:\C#\task23_домашка3_таблица кубов\bin\Debug\net6.0\task23_домашка3_таблица кубов.pdb
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.csproj.AssemblyReference.cache
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.AssemblyInfoInputs.cache
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.AssemblyInfo.cs
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.csproj.CoreCompileInputs.cache
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.dll
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\refint\task23_домашка3_таблица кубов.dll
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.pdb
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\task23_домашка3_таблица кубов.genruntimeconfig.cache
+C:\C#\task23_домашка3_таблица кубов\obj\Debug\net6.0\ref\task23_домашка3_таблица кубов.dll

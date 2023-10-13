@@ -1,0 +1,15 @@
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.csproj.AssemblyReference.cache
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.AssemblyInfoInputs.cache
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.AssemblyInfo.cs
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.csproj.CoreCompileInputs.cache
+C:\C#\task21_домашка3_расстояние 3D\bin\Debug\net6.0\task21_домашка3_расстояние 3D.exe
+C:\C#\task21_домашка3_расстояние 3D\bin\Debug\net6.0\task21_домашка3_расстояние 3D.deps.json
+C:\C#\task21_домашка3_расстояние 3D\bin\Debug\net6.0\task21_домашка3_расстояние 3D.runtimeconfig.json
+C:\C#\task21_домашка3_расстояние 3D\bin\Debug\net6.0\task21_домашка3_расстояние 3D.dll
+C:\C#\task21_домашка3_расстояние 3D\bin\Debug\net6.0\task21_домашка3_расстояние 3D.pdb
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.dll
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\refint\task21_домашка3_расстояние 3D.dll
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.pdb
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\task21_домашка3_расстояние 3D.genruntimeconfig.cache
+C:\C#\task21_домашка3_расстояние 3D\obj\Debug\net6.0\ref\task21_домашка3_расстояние 3D.dll

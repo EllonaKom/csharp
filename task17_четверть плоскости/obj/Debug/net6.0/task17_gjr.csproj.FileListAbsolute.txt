@@ -1,0 +1,15 @@
+C:\C#\task17_gjr\bin\Debug\net6.0\task17_gjr.exe
+C:\C#\task17_gjr\bin\Debug\net6.0\task17_gjr.deps.json
+C:\C#\task17_gjr\bin\Debug\net6.0\task17_gjr.runtimeconfig.json
+C:\C#\task17_gjr\bin\Debug\net6.0\task17_gjr.dll
+C:\C#\task17_gjr\bin\Debug\net6.0\task17_gjr.pdb
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.csproj.AssemblyReference.cache
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.AssemblyInfoInputs.cache
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.AssemblyInfo.cs
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.csproj.CoreCompileInputs.cache
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.dll
+C:\C#\task17_gjr\obj\Debug\net6.0\refint\task17_gjr.dll
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.pdb
+C:\C#\task17_gjr\obj\Debug\net6.0\task17_gjr.genruntimeconfig.cache
+C:\C#\task17_gjr\obj\Debug\net6.0\ref\task17_gjr.dll
