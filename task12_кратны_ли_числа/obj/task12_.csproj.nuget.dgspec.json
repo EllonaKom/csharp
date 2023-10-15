@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\task12_\\task12_.csproj": {}
+    "C:\\C#\\task12_кратны_ли_числа\\task12_.csproj": {}
   },
   "projects": {
-    "C:\\C#\\task12_\\task12_.csproj": {
+    "C:\\C#\\task12_кратны_ли_числа\\task12_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\task12_\\task12_.csproj",
+        "projectUniqueName": "C:\\C#\\task12_кратны_ли_числа\\task12_.csproj",
         "projectName": "task12_",
-        "projectPath": "C:\\C#\\task12_\\task12_.csproj",
+        "projectPath": "C:\\C#\\task12_кратны_ли_числа\\task12_.csproj",
         "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\task12_\\obj\\",
+        "outputPath": "C:\\C#\\task12_кратны_ли_числа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }

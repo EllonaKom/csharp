@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\task19_домашка3_расстояние 3D\\task19_домашка3_расстояние 3D.csproj",
+      "projectUniqueName": "C:\\C#\\task19_домашка3_палиндром\\task19_домашка3_расстояние 3D.csproj",
       "projectName": "task19_домашка3_расстояние 3D",
-      "projectPath": "C:\\C#\\task19_домашка3_расстояние 3D\\task19_домашка3_расстояние 3D.csproj",
+      "projectPath": "C:\\C#\\task19_домашка3_палиндром\\task19_домашка3_расстояние 3D.csproj",
       "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\task19_домашка3_расстояние 3D\\obj\\",
+      "outputPath": "C:\\C#\\task19_домашка3_палиндром\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\C#\task19_домашка3_палиндром\bin\Debug\net6.0\task19_домашка3_расстояние 3D.exe
+C:\C#\task19_домашка3_палиндром\bin\Debug\net6.0\task19_домашка3_расстояние 3D.deps.json
+C:\C#\task19_домашка3_палиндром\bin\Debug\net6.0\task19_домашка3_расстояние 3D.runtimeconfig.json
+C:\C#\task19_домашка3_палиндром\bin\Debug\net6.0\task19_домашка3_расстояние 3D.dll
+C:\C#\task19_домашка3_палиндром\bin\Debug\net6.0\task19_домашка3_расстояние 3D.pdb
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.csproj.AssemblyReference.cache
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.AssemblyInfoInputs.cache
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.AssemblyInfo.cs
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.csproj.CoreCompileInputs.cache
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.dll
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\refint\task19_домашка3_расстояние 3D.dll
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.pdb
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\task19_домашка3_расстояние 3D.genruntimeconfig.cache
+C:\C#\task19_домашка3_палиндром\obj\Debug\net6.0\ref\task19_домашка3_расстояние 3D.dll

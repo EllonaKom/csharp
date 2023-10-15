@@ -9,7 +9,6 @@ int userNumber1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите число 2");
 int userNumber2 = Convert.ToInt32(Console.ReadLine());
 
-int max = userNumber1;
 if (userNumber1 % userNumber2 == 0)
 {
     System.Console.WriteLine("Кратно ");
