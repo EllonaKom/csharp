@@ -1,0 +1,15 @@
+C:\C#\task26_количество_цифр\bin\Debug\net6.0\task26_количество_цифр.exe
+C:\C#\task26_количество_цифр\bin\Debug\net6.0\task26_количество_цифр.deps.json
+C:\C#\task26_количество_цифр\bin\Debug\net6.0\task26_количество_цифр.runtimeconfig.json
+C:\C#\task26_количество_цифр\bin\Debug\net6.0\task26_количество_цифр.dll
+C:\C#\task26_количество_цифр\bin\Debug\net6.0\task26_количество_цифр.pdb
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.csproj.AssemblyReference.cache
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.AssemblyInfoInputs.cache
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.AssemblyInfo.cs
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.csproj.CoreCompileInputs.cache
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.dll
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\refint\task26_количество_цифр.dll
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.pdb
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\task26_количество_цифр.genruntimeconfig.cache
+C:\C#\task26_количество_цифр\obj\Debug\net6.0\ref\task26_количество_цифр.dll

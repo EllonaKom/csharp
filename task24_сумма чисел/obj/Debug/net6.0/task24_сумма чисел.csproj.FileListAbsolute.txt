@@ -1,0 +1,15 @@
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.csproj.AssemblyReference.cache
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.AssemblyInfoInputs.cache
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.AssemblyInfo.cs
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.csproj.CoreCompileInputs.cache
+C:\C#\task24_сумма чисел\bin\Debug\net6.0\task24_сумма чисел.exe
+C:\C#\task24_сумма чисел\bin\Debug\net6.0\task24_сумма чисел.deps.json
+C:\C#\task24_сумма чисел\bin\Debug\net6.0\task24_сумма чисел.runtimeconfig.json
+C:\C#\task24_сумма чисел\bin\Debug\net6.0\task24_сумма чисел.dll
+C:\C#\task24_сумма чисел\bin\Debug\net6.0\task24_сумма чисел.pdb
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.dll
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\refint\task24_сумма чисел.dll
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.pdb
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\task24_сумма чисел.genruntimeconfig.cache
+C:\C#\task24_сумма чисел\obj\Debug\net6.0\ref\task24_сумма чисел.dll

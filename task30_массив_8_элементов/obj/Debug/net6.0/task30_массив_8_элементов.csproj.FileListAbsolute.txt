@@ -1,0 +1,15 @@
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.csproj.AssemblyReference.cache
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.AssemblyInfoInputs.cache
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.AssemblyInfo.cs
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.csproj.CoreCompileInputs.cache
+C:\C#\task30_массив_8_элементов\bin\Debug\net6.0\task30_массив_8_элементов.exe
+C:\C#\task30_массив_8_элементов\bin\Debug\net6.0\task30_массив_8_элементов.deps.json
+C:\C#\task30_массив_8_элементов\bin\Debug\net6.0\task30_массив_8_элементов.runtimeconfig.json
+C:\C#\task30_массив_8_элементов\bin\Debug\net6.0\task30_массив_8_элементов.dll
+C:\C#\task30_массив_8_элементов\bin\Debug\net6.0\task30_массив_8_элементов.pdb
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.dll
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\refint\task30_массив_8_элементов.dll
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.pdb
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\task30_массив_8_элементов.genruntimeconfig.cache
+C:\C#\task30_массив_8_элементов\obj\Debug\net6.0\ref\task30_массив_8_элементов.dll

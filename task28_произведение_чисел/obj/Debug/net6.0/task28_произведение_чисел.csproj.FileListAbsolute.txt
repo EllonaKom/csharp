@@ -1,0 +1,15 @@
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.csproj.AssemblyReference.cache
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.AssemblyInfoInputs.cache
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.AssemblyInfo.cs
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.csproj.CoreCompileInputs.cache
+C:\C#\task28_произведение_чисел\bin\Debug\net6.0\task28_произведение_чисел.exe
+C:\C#\task28_произведение_чисел\bin\Debug\net6.0\task28_произведение_чисел.deps.json
+C:\C#\task28_произведение_чисел\bin\Debug\net6.0\task28_произведение_чисел.runtimeconfig.json
+C:\C#\task28_произведение_чисел\bin\Debug\net6.0\task28_произведение_чисел.dll
+C:\C#\task28_произведение_чисел\bin\Debug\net6.0\task28_произведение_чисел.pdb
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.dll
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\refint\task28_произведение_чисел.dll
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.pdb
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\task28_произведение_чисел.genruntimeconfig.cache
+C:\C#\task28_произведение_чисел\obj\Debug\net6.0\ref\task28_произведение_чисел.dll
