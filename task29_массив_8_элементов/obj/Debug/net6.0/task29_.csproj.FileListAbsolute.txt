@@ -1,0 +1,15 @@
+C:\C#\task29_массив_8_элементов\bin\Debug\net6.0\task29_.exe
+C:\C#\task29_массив_8_элементов\bin\Debug\net6.0\task29_.deps.json
+C:\C#\task29_массив_8_элементов\bin\Debug\net6.0\task29_.runtimeconfig.json
+C:\C#\task29_массив_8_элементов\bin\Debug\net6.0\task29_.dll
+C:\C#\task29_массив_8_элементов\bin\Debug\net6.0\task29_.pdb
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.csproj.AssemblyReference.cache
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.AssemblyInfoInputs.cache
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.AssemblyInfo.cs
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.csproj.CoreCompileInputs.cache
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.dll
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\refint\task29_.dll
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.pdb
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\task29_.genruntimeconfig.cache
+C:\C#\task29_массив_8_элементов\obj\Debug\net6.0\ref\task29_.dll

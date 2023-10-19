@@ -1,0 +1,15 @@
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\bin\Debug\net6.0\task25_.exe
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\bin\Debug\net6.0\task25_.deps.json
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\bin\Debug\net6.0\task25_.runtimeconfig.json
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\bin\Debug\net6.0\task25_.dll
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\bin\Debug\net6.0\task25_.pdb
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.csproj.AssemblyReference.cache
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.AssemblyInfoInputs.cache
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.AssemblyInfo.cs
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.csproj.CoreCompileInputs.cache
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.dll
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\refint\task25_.dll
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.pdb
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\task25_.genruntimeconfig.cache
+C:\C#\task25_домашка4_цикл_числоА_в_степеньВ\obj\Debug\net6.0\ref\task25_.dll
