@@ -1,0 +1,15 @@
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\bin\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.exe
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\bin\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.deps.json
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\bin\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.runtimeconfig.json
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\bin\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.dll
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\bin\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.pdb
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.csproj.AssemblyReference.cache
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.AssemblyInfoInputs.cache
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.AssemblyInfo.cs
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.csproj.CoreCompileInputs.cache
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.dll
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\refint\task36_домашка5_сумма_на_нечетн_поз.dll
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.pdb
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\task36_домашка5_сумма_на_нечетн_поз.genruntimeconfig.cache
+C:\C#\task36_домашка5_сумма_на_нечетн_поз\obj\Debug\net6.0\ref\task36_домашка5_сумма_на_нечетн_поз.dll

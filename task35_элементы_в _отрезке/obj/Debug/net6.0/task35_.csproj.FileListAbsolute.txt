@@ -1,0 +1,15 @@
+C:\C#\task35_\obj\Debug\net6.0\task35_.csproj.AssemblyReference.cache
+C:\C#\task35_\obj\Debug\net6.0\task35_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task35_\obj\Debug\net6.0\task35_.AssemblyInfoInputs.cache
+C:\C#\task35_\obj\Debug\net6.0\task35_.AssemblyInfo.cs
+C:\C#\task35_\obj\Debug\net6.0\task35_.csproj.CoreCompileInputs.cache
+C:\C#\task35_\bin\Debug\net6.0\task35_.exe
+C:\C#\task35_\bin\Debug\net6.0\task35_.deps.json
+C:\C#\task35_\bin\Debug\net6.0\task35_.runtimeconfig.json
+C:\C#\task35_\bin\Debug\net6.0\task35_.dll
+C:\C#\task35_\bin\Debug\net6.0\task35_.pdb
+C:\C#\task35_\obj\Debug\net6.0\task35_.dll
+C:\C#\task35_\obj\Debug\net6.0\refint\task35_.dll
+C:\C#\task35_\obj\Debug\net6.0\task35_.pdb
+C:\C#\task35_\obj\Debug\net6.0\task35_.genruntimeconfig.cache
+C:\C#\task35_\obj\Debug\net6.0\ref\task35_.dll

@@ -1,0 +1,15 @@
+C:\C#\task31_\bin\Debug\net6.0\task31_.exe
+C:\C#\task31_\bin\Debug\net6.0\task31_.deps.json
+C:\C#\task31_\bin\Debug\net6.0\task31_.runtimeconfig.json
+C:\C#\task31_\bin\Debug\net6.0\task31_.dll
+C:\C#\task31_\bin\Debug\net6.0\task31_.pdb
+C:\C#\task31_\obj\Debug\net6.0\task31_.csproj.AssemblyReference.cache
+C:\C#\task31_\obj\Debug\net6.0\task31_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task31_\obj\Debug\net6.0\task31_.AssemblyInfoInputs.cache
+C:\C#\task31_\obj\Debug\net6.0\task31_.AssemblyInfo.cs
+C:\C#\task31_\obj\Debug\net6.0\task31_.csproj.CoreCompileInputs.cache
+C:\C#\task31_\obj\Debug\net6.0\task31_.dll
+C:\C#\task31_\obj\Debug\net6.0\refint\task31_.dll
+C:\C#\task31_\obj\Debug\net6.0\task31_.pdb
+C:\C#\task31_\obj\Debug\net6.0\task31_.genruntimeconfig.cache
+C:\C#\task31_\obj\Debug\net6.0\ref\task31_.dll

@@ -1,0 +1,5 @@
+C:\C#\task38_домашка5_вещест_числа_разница\obj\Debug\net6.0\task38_домашка5_вещест_числа_разница.csproj.AssemblyReference.cache
+C:\C#\task38_домашка5_вещест_числа_разница\obj\Debug\net6.0\task38_домашка5_вещест_числа_разница.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task38_домашка5_вещест_числа_разница\obj\Debug\net6.0\task38_домашка5_вещест_числа_разница.AssemblyInfoInputs.cache
+C:\C#\task38_домашка5_вещест_числа_разница\obj\Debug\net6.0\task38_домашка5_вещест_числа_разница.AssemblyInfo.cs
+C:\C#\task38_домашка5_вещест_числа_разница\obj\Debug\net6.0\task38_домашка5_вещест_числа_разница.csproj.CoreCompileInputs.cache
