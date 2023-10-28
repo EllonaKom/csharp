@@ -1,0 +1,15 @@
+C:\C#\task51_двумерн_массив_квадрат\bin\Debug\net6.0\task51_.exe
+C:\C#\task51_двумерн_массив_квадрат\bin\Debug\net6.0\task51_.deps.json
+C:\C#\task51_двумерн_массив_квадрат\bin\Debug\net6.0\task51_.runtimeconfig.json
+C:\C#\task51_двумерн_массив_квадрат\bin\Debug\net6.0\task51_.dll
+C:\C#\task51_двумерн_массив_квадрат\bin\Debug\net6.0\task51_.pdb
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.csproj.AssemblyReference.cache
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.AssemblyInfoInputs.cache
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.AssemblyInfo.cs
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.csproj.CoreCompileInputs.cache
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.dll
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\refint\task51_.dll
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.pdb
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\task51_.genruntimeconfig.cache
+C:\C#\task51_двумерн_массив_квадрат\obj\Debug\net6.0\ref\task51_.dll

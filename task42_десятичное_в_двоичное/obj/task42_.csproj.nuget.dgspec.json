@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\task42_\\task42_.csproj": {}
+    "C:\\C#\\task42_десятичное_в_двоичное\\task42_.csproj": {}
   },
   "projects": {
-    "C:\\C#\\task42_\\task42_.csproj": {
+    "C:\\C#\\task42_десятичное_в_двоичное\\task42_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\task42_\\task42_.csproj",
+        "projectUniqueName": "C:\\C#\\task42_десятичное_в_двоичное\\task42_.csproj",
         "projectName": "task42_",
-        "projectPath": "C:\\C#\\task42_\\task42_.csproj",
+        "projectPath": "C:\\C#\\task42_десятичное_в_двоичное\\task42_.csproj",
         "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\task42_\\obj\\",
+        "outputPath": "C:\\C#\\task42_десятичное_в_двоичное\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,66 @@
+﻿/*Задача 46: Задайте двумерный массив размером m×n,
+заполненный случайными целыми числами.
+m = 3, n = 4.
+1 4 8 19
+5 -2 33 -2
+77 3 8 1*/ 
+using System;
+Console.Clear();
+
+
+int TakeEnteredNumber(string message)
+{
+    System.Console.WriteLine(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}
+
+
+int[,] GetRandom2DArray(int start, int end, int row, int column)
+{
+    int[,] array = new int[row, column];
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            array[i, j] = new Random().Next(start, end+1);
+        }
+    }
+    return array;
+}
+
+
+void Print2DArray(int[,] array)
+{
+    void PrintMatrix(int[,] arr)
+{
+    System.Console.Write("[ ] \t");
+    for (int j = 0; j < arr.GetLength(1); j++)
+    {
+        System.Console.Write($"[{j}] \t");
+    }
+    System.Console.WriteLine();
+    for (int i = 0; i < arr.GetLength(0); i++)
+    {
+        System.Console.Write($"[{i}] \t");
+        for (int j = 0; j < arr.GetLength(1); j++)
+        {
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        System.Console.Write(" " + arr[ i, j] + "\t");
+        Console.ResetColor();
+        }
+        System.Console.WriteLine();
+    }
+    Console.ResetColor();
+}
+}
+
+
+
+int userArrayRow = TakeEnteredNumber("Введите количестов строк:");
+int userArrayColumn = TakeEnteredNumber("Введите количестов столбцов:");
+int userArrayStart = TakeEnteredNumber("Введите начало диапозона:");
+int userArrayEnd = TakeEnteredNumber("Введите конец диапозона:");
+int[,] user2DArray = GetRandom2DArray(userArrayStart, userArrayEnd, userArrayRow, userArrayColumn);
+
+Print2DArray(user2DArray);

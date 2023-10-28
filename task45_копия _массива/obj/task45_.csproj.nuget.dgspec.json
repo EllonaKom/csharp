@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\task45_\\task45_.csproj": {}
+    "C:\\C#\\task45_копия _массива\\task45_.csproj": {}
   },
   "projects": {
-    "C:\\C#\\task45_\\task45_.csproj": {
+    "C:\\C#\\task45_копия _массива\\task45_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\task45_\\task45_.csproj",
+        "projectUniqueName": "C:\\C#\\task45_копия _массива\\task45_.csproj",
         "projectName": "task45_",
-        "projectPath": "C:\\C#\\task45_\\task45_.csproj",
+        "projectPath": "C:\\C#\\task45_копия _массива\\task45_.csproj",
         "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\task45_\\obj\\",
+        "outputPath": "C:\\C#\\task45_копия _массива\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"

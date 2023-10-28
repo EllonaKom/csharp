@@ -1,0 +1,15 @@
+C:\C#\task49_двумерн_массив_квадраты\bin\Debug\net6.0\task49_.exe
+C:\C#\task49_двумерн_массив_квадраты\bin\Debug\net6.0\task49_.deps.json
+C:\C#\task49_двумерн_массив_квадраты\bin\Debug\net6.0\task49_.runtimeconfig.json
+C:\C#\task49_двумерн_массив_квадраты\bin\Debug\net6.0\task49_.dll
+C:\C#\task49_двумерн_массив_квадраты\bin\Debug\net6.0\task49_.pdb
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.csproj.AssemblyReference.cache
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.AssemblyInfoInputs.cache
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.AssemblyInfo.cs
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.csproj.CoreCompileInputs.cache
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.dll
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\refint\task49_.dll
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.pdb
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\task49_.genruntimeconfig.cache
+C:\C#\task49_двумерн_массив_квадраты\obj\Debug\net6.0\ref\task49_.dll

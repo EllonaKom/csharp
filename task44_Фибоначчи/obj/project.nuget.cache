@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NxQXYrz9eoS4zjOsfStMqzgmM2ch0xNfhHT+4nEp5WX140aT7gthauip/N6DJZO9aTtp2C8h4iwRhNRV/62Kzg==",
+  "dgSpecHash": "unR90481qo7dUoC0vw1sy446q9T/XKGOT7rjzmhpqjNXJeoR+7vyjJMQFqzVQY6VkJDCNA9Pi8KjlvmkKQruaA==",
   "success": true,
-  "projectFilePath": "C:\\C#\\task44_\\task44_.csproj",
+  "projectFilePath": "C:\\C#\\task44_Фибоначчи\\task44_.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

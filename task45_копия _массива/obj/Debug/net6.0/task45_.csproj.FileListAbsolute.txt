@@ -1,0 +1,15 @@
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.csproj.AssemblyReference.cache
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.AssemblyInfoInputs.cache
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.AssemblyInfo.cs
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.csproj.CoreCompileInputs.cache
+C:\C#\task45_копия _массива\bin\Debug\net6.0\task45_.exe
+C:\C#\task45_копия _массива\bin\Debug\net6.0\task45_.deps.json
+C:\C#\task45_копия _массива\bin\Debug\net6.0\task45_.runtimeconfig.json
+C:\C#\task45_копия _массива\bin\Debug\net6.0\task45_.dll
+C:\C#\task45_копия _массива\bin\Debug\net6.0\task45_.pdb
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.dll
+C:\C#\task45_копия _массива\obj\Debug\net6.0\refint\task45_.dll
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.pdb
+C:\C#\task45_копия _массива\obj\Debug\net6.0\task45_.genruntimeconfig.cache
+C:\C#\task45_копия _массива\obj\Debug\net6.0\ref\task45_.dll

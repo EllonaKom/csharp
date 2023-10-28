@@ -1,0 +1,15 @@
+C:\C#\task52_Домашка7_2массив_позиция\bin\Debug\net6.0\task52_.exe
+C:\C#\task52_Домашка7_2массив_позиция\bin\Debug\net6.0\task52_.deps.json
+C:\C#\task52_Домашка7_2массив_позиция\bin\Debug\net6.0\task52_.runtimeconfig.json
+C:\C#\task52_Домашка7_2массив_позиция\bin\Debug\net6.0\task52_.dll
+C:\C#\task52_Домашка7_2массив_позиция\bin\Debug\net6.0\task52_.pdb
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.csproj.AssemblyReference.cache
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.AssemblyInfoInputs.cache
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.AssemblyInfo.cs
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.csproj.CoreCompileInputs.cache
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.dll
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\refint\task52_.dll
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.pdb
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\task52_.genruntimeconfig.cache
+C:\C#\task52_Домашка7_2массив_позиция\obj\Debug\net6.0\ref\task52_.dll

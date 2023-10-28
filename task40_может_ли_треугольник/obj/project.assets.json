@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\task40_\\task40_.csproj",
+      "projectUniqueName": "C:\\C#\\task40_может_ли_треугольник\\task40_.csproj",
       "projectName": "task40_",
-      "projectPath": "C:\\C#\\task40_\\task40_.csproj",
+      "projectPath": "C:\\C#\\task40_может_ли_треугольник\\task40_.csproj",
       "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\task40_\\obj\\",
+      "outputPath": "C:\\C#\\task40_может_ли_треугольник\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\task44_\\task44_.csproj": {}
+    "C:\\C#\\task44_Фибоначчи\\task44_.csproj": {}
   },
   "projects": {
-    "C:\\C#\\task44_\\task44_.csproj": {
+    "C:\\C#\\task44_Фибоначчи\\task44_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\task44_\\task44_.csproj",
+        "projectUniqueName": "C:\\C#\\task44_Фибоначчи\\task44_.csproj",
         "projectName": "task44_",
-        "projectPath": "C:\\C#\\task44_\\task44_.csproj",
+        "projectPath": "C:\\C#\\task44_Фибоначчи\\task44_.csproj",
         "packagesPath": "C:\\Users\\мама\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\task44_\\obj\\",
+        "outputPath": "C:\\C#\\task44_Фибоначчи\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\мама\\AppData\\Roaming\\NuGet\\NuGet.Config"
