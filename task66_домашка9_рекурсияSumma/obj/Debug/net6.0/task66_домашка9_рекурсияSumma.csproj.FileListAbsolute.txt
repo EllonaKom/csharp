@@ -1,0 +1,15 @@
+C:\C#\task66_домашка9_рекурсияSumma\bin\Debug\net6.0\task66_домашка9_рекурсияSumma.exe
+C:\C#\task66_домашка9_рекурсияSumma\bin\Debug\net6.0\task66_домашка9_рекурсияSumma.deps.json
+C:\C#\task66_домашка9_рекурсияSumma\bin\Debug\net6.0\task66_домашка9_рекурсияSumma.runtimeconfig.json
+C:\C#\task66_домашка9_рекурсияSumma\bin\Debug\net6.0\task66_домашка9_рекурсияSumma.dll
+C:\C#\task66_домашка9_рекурсияSumma\bin\Debug\net6.0\task66_домашка9_рекурсияSumma.pdb
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.csproj.AssemblyReference.cache
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.AssemblyInfoInputs.cache
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.AssemblyInfo.cs
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.csproj.CoreCompileInputs.cache
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.dll
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\refint\task66_домашка9_рекурсияSumma.dll
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.pdb
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\task66_домашка9_рекурсияSumma.genruntimeconfig.cache
+C:\C#\task66_домашка9_рекурсияSumma\obj\Debug\net6.0\ref\task66_домашка9_рекурсияSumma.dll

@@ -1,0 +1,15 @@
+C:\C#\task58_домашка8_произведение_матриц\bin\Debug\net6.0\task58_домашка8_.exe
+C:\C#\task58_домашка8_произведение_матриц\bin\Debug\net6.0\task58_домашка8_.deps.json
+C:\C#\task58_домашка8_произведение_матриц\bin\Debug\net6.0\task58_домашка8_.runtimeconfig.json
+C:\C#\task58_домашка8_произведение_матриц\bin\Debug\net6.0\task58_домашка8_.dll
+C:\C#\task58_домашка8_произведение_матриц\bin\Debug\net6.0\task58_домашка8_.pdb
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.csproj.AssemblyReference.cache
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.AssemblyInfoInputs.cache
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.AssemblyInfo.cs
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.csproj.CoreCompileInputs.cache
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.dll
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\refint\task58_домашка8_.dll
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.pdb
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\task58_домашка8_.genruntimeconfig.cache
+C:\C#\task58_домашка8_произведение_матриц\obj\Debug\net6.0\ref\task58_домашка8_.dll

@@ -1,0 +1,15 @@
+C:\C#\task55_\bin\Debug\net6.0\task55_.exe
+C:\C#\task55_\bin\Debug\net6.0\task55_.deps.json
+C:\C#\task55_\bin\Debug\net6.0\task55_.runtimeconfig.json
+C:\C#\task55_\bin\Debug\net6.0\task55_.dll
+C:\C#\task55_\bin\Debug\net6.0\task55_.pdb
+C:\C#\task55_\obj\Debug\net6.0\task55_.csproj.AssemblyReference.cache
+C:\C#\task55_\obj\Debug\net6.0\task55_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task55_\obj\Debug\net6.0\task55_.AssemblyInfoInputs.cache
+C:\C#\task55_\obj\Debug\net6.0\task55_.AssemblyInfo.cs
+C:\C#\task55_\obj\Debug\net6.0\task55_.csproj.CoreCompileInputs.cache
+C:\C#\task55_\obj\Debug\net6.0\task55_.dll
+C:\C#\task55_\obj\Debug\net6.0\refint\task55_.dll
+C:\C#\task55_\obj\Debug\net6.0\task55_.pdb
+C:\C#\task55_\obj\Debug\net6.0\task55_.genruntimeconfig.cache
+C:\C#\task55_\obj\Debug\net6.0\ref\task55_.dll

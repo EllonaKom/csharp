@@ -14,7 +14,8 @@ for(int i = 0; i < value; i++)
     if(int.Parse(System.Console.ReadLine()) > 0 ) count++;
 }
 
-System.Console.WriteLine("Чисел со значением больше нуля было введено: " + count);*/
+System.Console.WriteLine("Чисел со значением больше нуля было вве
+дено: " + count);*/
 
 int[] GetArray(int size)
 {

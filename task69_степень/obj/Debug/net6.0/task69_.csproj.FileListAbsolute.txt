@@ -1,0 +1,15 @@
+C:\C#\task69_степень\bin\Debug\net6.0\task69_.exe
+C:\C#\task69_степень\bin\Debug\net6.0\task69_.deps.json
+C:\C#\task69_степень\bin\Debug\net6.0\task69_.runtimeconfig.json
+C:\C#\task69_степень\bin\Debug\net6.0\task69_.dll
+C:\C#\task69_степень\bin\Debug\net6.0\task69_.pdb
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.csproj.AssemblyReference.cache
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.AssemblyInfoInputs.cache
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.AssemblyInfo.cs
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.csproj.CoreCompileInputs.cache
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.dll
+C:\C#\task69_степень\obj\Debug\net6.0\refint\task69_.dll
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.pdb
+C:\C#\task69_степень\obj\Debug\net6.0\task69_.genruntimeconfig.cache
+C:\C#\task69_степень\obj\Debug\net6.0\ref\task69_.dll

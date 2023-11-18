@@ -1,0 +1,15 @@
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.csproj.AssemblyReference.cache
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.AssemblyInfoInputs.cache
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.AssemblyInfo.cs
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.csproj.CoreCompileInputs.cache
+C:\C#\task59_удалит_строку_столбец\bin\Debug\net6.0\task59_.exe
+C:\C#\task59_удалит_строку_столбец\bin\Debug\net6.0\task59_.deps.json
+C:\C#\task59_удалит_строку_столбец\bin\Debug\net6.0\task59_.runtimeconfig.json
+C:\C#\task59_удалит_строку_столбец\bin\Debug\net6.0\task59_.dll
+C:\C#\task59_удалит_строку_столбец\bin\Debug\net6.0\task59_.pdb
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.dll
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\refint\task59_.dll
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.pdb
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\task59_.genruntimeconfig.cache
+C:\C#\task59_удалит_строку_столбец\obj\Debug\net6.0\ref\task59_.dll

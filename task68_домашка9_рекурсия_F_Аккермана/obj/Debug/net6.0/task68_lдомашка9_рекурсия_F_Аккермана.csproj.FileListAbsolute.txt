@@ -1,0 +1,15 @@
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.csproj.AssemblyReference.cache
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.AssemblyInfoInputs.cache
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.AssemblyInfo.cs
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.csproj.CoreCompileInputs.cache
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\bin\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.exe
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\bin\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.deps.json
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\bin\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.runtimeconfig.json
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\bin\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.dll
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\bin\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.pdb
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.dll
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\refint\task68_lдомашка9_рекурсия_F_Аккермана.dll
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.pdb
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\task68_lдомашка9_рекурсия_F_Аккермана.genruntimeconfig.cache
+C:\C#\task68_домашка9_рекурсия_F_Аккермана\obj\Debug\net6.0\ref\task68_lдомашка9_рекурсия_F_Аккермана.dll

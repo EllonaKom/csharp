@@ -1,0 +1,15 @@
+C:\C#\task65_числаВпромежутке\bin\Debug\net6.0\task65_.exe
+C:\C#\task65_числаВпромежутке\bin\Debug\net6.0\task65_.deps.json
+C:\C#\task65_числаВпромежутке\bin\Debug\net6.0\task65_.runtimeconfig.json
+C:\C#\task65_числаВпромежутке\bin\Debug\net6.0\task65_.dll
+C:\C#\task65_числаВпромежутке\bin\Debug\net6.0\task65_.pdb
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.csproj.AssemblyReference.cache
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.AssemblyInfoInputs.cache
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.AssemblyInfo.cs
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.csproj.CoreCompileInputs.cache
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.dll
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\refint\task65_.dll
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.pdb
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\task65_.genruntimeconfig.cache
+C:\C#\task65_числаВпромежутке\obj\Debug\net6.0\ref\task65_.dll

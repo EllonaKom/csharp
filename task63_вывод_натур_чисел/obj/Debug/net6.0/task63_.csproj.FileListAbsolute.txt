@@ -1,0 +1,15 @@
+C:\C#\task63_вывод_натур_чисел\bin\Debug\net6.0\task63_.exe
+C:\C#\task63_вывод_натур_чисел\bin\Debug\net6.0\task63_.deps.json
+C:\C#\task63_вывод_натур_чисел\bin\Debug\net6.0\task63_.runtimeconfig.json
+C:\C#\task63_вывод_натур_чисел\bin\Debug\net6.0\task63_.dll
+C:\C#\task63_вывод_натур_чисел\bin\Debug\net6.0\task63_.pdb
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.csproj.AssemblyReference.cache
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.AssemblyInfoInputs.cache
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.AssemblyInfo.cs
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.csproj.CoreCompileInputs.cache
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.dll
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\refint\task63_.dll
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.pdb
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\task63_.genruntimeconfig.cache
+C:\C#\task63_вывод_натур_чисел\obj\Debug\net6.0\ref\task63_.dll

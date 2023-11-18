@@ -1,0 +1,15 @@
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.csproj.AssemblyReference.cache
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.AssemblyInfoInputs.cache
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.AssemblyInfo.cs
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.csproj.CoreCompileInputs.cache
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\bin\Debug\net6.0\task64_домашка_.exe
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\bin\Debug\net6.0\task64_домашка_.deps.json
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\bin\Debug\net6.0\task64_домашка_.runtimeconfig.json
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\bin\Debug\net6.0\task64_домашка_.dll
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\bin\Debug\net6.0\task64_домашка_.pdb
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.dll
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\refint\task64_домашка_.dll
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.pdb
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\task64_домашка_.genruntimeconfig.cache
+C:\C#\task64_домашка9_рекурсия_числаОтNдо1\obj\Debug\net6.0\ref\task64_домашка_.dll

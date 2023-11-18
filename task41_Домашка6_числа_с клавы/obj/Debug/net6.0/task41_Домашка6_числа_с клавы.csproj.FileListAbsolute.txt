@@ -1,0 +1,15 @@
+C:\C#\task41_Домашка6_числа_с клавы\bin\Debug\net6.0\task41_Домашка6_числа_с клавы.exe
+C:\C#\task41_Домашка6_числа_с клавы\bin\Debug\net6.0\task41_Домашка6_числа_с клавы.deps.json
+C:\C#\task41_Домашка6_числа_с клавы\bin\Debug\net6.0\task41_Домашка6_числа_с клавы.runtimeconfig.json
+C:\C#\task41_Домашка6_числа_с клавы\bin\Debug\net6.0\task41_Домашка6_числа_с клавы.dll
+C:\C#\task41_Домашка6_числа_с клавы\bin\Debug\net6.0\task41_Домашка6_числа_с клавы.pdb
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.csproj.AssemblyReference.cache
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.AssemblyInfoInputs.cache
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.AssemblyInfo.cs
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.csproj.CoreCompileInputs.cache
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.dll
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\refint\task41_Домашка6_числа_с клавы.dll
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.pdb
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\task41_Домашка6_числа_с клавы.genruntimeconfig.cache
+C:\C#\task41_Домашка6_числа_с клавы\obj\Debug\net6.0\ref\task41_Домашка6_числа_с клавы.dll

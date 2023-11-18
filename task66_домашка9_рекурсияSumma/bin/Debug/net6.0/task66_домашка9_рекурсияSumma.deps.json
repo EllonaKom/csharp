@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task66_домашка9_рекурсияSumma/1.0.0": {
+        "runtime": {
+          "task66_домашка9_рекурсияSumma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task66_домашка9_рекурсияSumma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
